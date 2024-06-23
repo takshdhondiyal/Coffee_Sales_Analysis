@@ -3,7 +3,7 @@ Analysis of the sales data of a Coffee shop
 
 **The Steps Included**
 
--- ETL in Power-Query
+-- ETL in Power-Query.
 
 -- Writing DAXs to calculate the metrices like Revenue, Order Qty. , month over month change in them, etc.
 
